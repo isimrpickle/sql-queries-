@@ -1,1 +1,1 @@
-# using sql-queries to print information from a real-like hotel database.
+# Using sql-queries to print information from a real-like hotel database.
